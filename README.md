@@ -81,6 +81,10 @@ let sheetViewController = MailSheetViewController(navigationConfig: config, sect
 sheetViewController.show(on: self)
 ```
 
+# Preview
+<img src="https://user-images.githubusercontent.com/31299470/223842741-db9c5e9b-a4db-4074-a9f4-338505f6065e.mp4" alt="1" width="280"/>
+
+
 # TODO
 - [ ] Add color customizable options.
 - [ ] Improve documentation.
