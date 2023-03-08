@@ -82,5 +82,5 @@ sheetViewController.show(on: self)
 ```
 
 # TODO
-- [] Add color customizable options.
-- [] Improve documentation.
+- [ ] Add color customizable options.
+- [ ] Improve documentation.
